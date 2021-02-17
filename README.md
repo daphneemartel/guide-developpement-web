@@ -15,4 +15,4 @@ Parmi les autres sources:
 <ul><li>le site pédagogique https://www.hautemontagne.ca/</li>
 <li>ainsi que les ressources du WAI https://www.w3.org/WAI/tutorials/.</li></ul>
 
-Tous les contenus ont été révisés et adaptés pour convenir au contexte pédagogique du cours Intégration II offert par le programme Techniques d'intégration multimédia du Cégep de Sainte-Foy.
+Tous les contenus ont été révisés et adaptés pour convenir au contexte pédagogique du cours Intégration II offert par le programme <a href="https://timcsf.cegep-ste-foy.qc.ca/">Techniques d'intégration multimédia du Cégep de Sainte-Foy</a>.
