@@ -9,7 +9,7 @@ Ici, il y aura une table des matières du contenu de ce répertoire.
 <br>[Liste de contrôle](liste-de-controle.md)
 
 # Crédits
-Une partie des contenus présents dans ce répertoire se réfère au Guide de codage de l'agence AlsaCréations.
+Une partie des contenus présents dans ce répertoire se réfère au <a href="https://github.com/alsacreations/guidelines">Guide de codage de l'agence AlsaCréations</a>.
 
 Parmi les autres sources:
 <ul><li>le site pédagogique https://www.hautemontagne.ca/</li>
