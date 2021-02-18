@@ -7,6 +7,7 @@ Ici, il y aura une table des matières du contenu de ce répertoire.
 <br>[Guide CSS](guide-css.md)
 <br>[Liste de contrôle-101](liste-de-controle-101.md)
 <br>[Liste de contrôle](liste-de-controle.md)
+<br> [Ressources et liens] (ressources-et-liens.md)
 
 # Crédits
 Une partie des contenus présents dans ce répertoire se réfère au <a href="https://github.com/alsacreations/guidelines">Guide de codage de l'agence AlsaCréations</a>.
